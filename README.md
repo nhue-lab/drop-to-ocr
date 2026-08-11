@@ -42,7 +42,7 @@ Running OCR locally on Windows often means installing Python, Tesseract, Ghostsc
 
 ```
 
-2. *(Optional)* Move `OCR_Glisser_Deposer.bat` or a shortcut to your desktop or your preferred working folder.
+2. *(Optional)* Move `OCR_Drag_Drop.bat` or a shortcut to your desktop or your preferred working folder.
 
 ---
 
@@ -50,7 +50,7 @@ Running OCR locally on Windows often means installing Python, Tesseract, Ghostsc
 
 1. Make sure **Docker Desktop** is running.
 2. Select any scanned PDF or image file (`.jpg`, `.png`).
-3. **Drag and drop** the file directly onto the `OCR_Glisser_Deposer.bat` file.
+3. **Drag and drop** the file directly onto the `OCR_Drag_Drop.bat` file.
 4. A terminal window will open, process the file, and output a new PDF named `<original_name>_OCR.pdf` in the same directory.
 
 ---
